@@ -1,2 +1,13 @@
-# conversa-criptografada
-Este projeto simula uma conversa criptografada entre 2 chats.
+# Instalar Dependências
+
+pip install flask requests streamlit pycryptodome
+
+# Iniciar Servidor Flask
+
+python server.py
+
+# Iniciar Interface Streamlit
+
+streamlit run main.py
+
+
